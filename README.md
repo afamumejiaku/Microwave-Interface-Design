@@ -29,7 +29,8 @@ Your imagination
 
 ## My Solution
 The solution for the above questions can be found at this website<br>
-https://afamumejiaku.github.io/Microwave-Interface-Design/
+[Microwave Interface](https://afamumejiaku.github.io/Microwave-Interface-Design/)<br/>
+[ ![Microwave Interface](Overview.gif)](https://afamumejiaku.github.io/Microwave-Interface-Design/)<br/>
 
 Video of solution
 [ Click the image below to watch a short video demo.](https://www.youtube.com/embed/4ss72XnrnDA) <br/>
