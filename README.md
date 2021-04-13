@@ -32,4 +32,6 @@ The solution for the above questions can be found at this website<br>
 https://afamumejiaku.github.io/Microwave-Interface-Design/
 
 Video of solution
-[![Alt text for your video] <iframe width="560" height="315" src="https://www.youtube.com/embed/4ss72XnrnDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ]
+[ Click the image below to watch a short video demo.](https://www.youtube.com/watch?v=2r75rA8yok8&ab_channel=AfamefunapromiseUmejiaku) <br/>
+[ ![Overview](overview.png)](https://www.youtube.com/embed/4ss72XnrnDA)<br/>
+
