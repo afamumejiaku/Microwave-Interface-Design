@@ -33,5 +33,5 @@ https://afamumejiaku.github.io/Microwave-Interface-Design/
 
 Video of solution
 [ Click the image below to watch a short video demo.](https://www.youtube.com/embed/4ss72XnrnDA) <br/>
-[ ![Overview](overview.png)](https://www.youtube.com/embed/4ss72XnrnDA)<br/>
+[ ![Overview](Overview.png)](https://www.youtube.com/embed/4ss72XnrnDA)<br/>
 
